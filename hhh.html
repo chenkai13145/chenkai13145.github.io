@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div style="width: 50%; background-color: red; height: 109vh;"></div>
+    <script>
+       (function(){
+          var divs=document.getElementsByTagName('div')[0];
+        //   divs.addEventListener('mousemove',Fnadd(oo,2000))
+          divs.addEventListener('mousemove',Fnjeiliu(oo,2000))
+       })()
+       function Fnadd(fn,val){
+           var timeout=null
+           return function(){
+               if(timeout!==null)clearTimeout(timeout);
+               timeout=setTimeout(fn,val)
+           }
+       }
+       function Fnjeiliu(fn,val){
+             let date=new Date().getTime()
+             return function(){
+                 let noew=new Date().getTime()
+                 if(noew-date>val){
+                     date=noew
+                     setTimeout(fn)
+                 }
+             }
+       }
+       function oo(){
+           console.log('pppppppp')
+       }
+
+       (function(){
+           var obj={
+               aa:'ksdksajkdjsk',
+               b:"ggg",
+               arr:[
+                   {
+                       name:'陈凯',
+                       age:12,
+                       hobb:'仇恨'
+                    },
+                    {
+                       name:'陈凯2',
+                       age:122,
+                       hobb:'仇恨2'
+                    }
+               ],
+               o:{
+                   oP:'传教士大家'
+               }
+           }
+        let yy= copy(obj,{});
+        console.log(yy)
+       })()
+       function copy(old,newval){
+           for(let key in old){
+               let item=old[key]
+               console.log(Object.prototype.toString.call(item))
+            //    if(item instanceof Array){
+            //        newval[key]=[]
+            //        copy(item,newval[key])
+            //    }else if(item instanceof Object){
+            //        newval[key]={}
+            //        copy(item,newval[key])
+            //    }else{
+            //        newval[key]=item
+            //    }
+                     if(Object.prototype.toString.call(item)==='[object Array]'){
+                   newval[key]=[]
+                   copy(item,newval[key])
+               }else if(Object.prototype.toString.call(item)==='[object Object]'){
+                   newval[key]={}
+                   copy(item,newval[key])
+               }else{
+                   newval[key]=item
+               }
+           }
+           return newval
+       }
+
+    </script>
+</body>
+</html>
