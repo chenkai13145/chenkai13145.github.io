@@ -155,10 +155,12 @@ $("document").ready(function(){
                 move('.c-tit').set('top','120px').end(),
                 move('.j-tit').set('top','140px').end(),
                 move('.aj-tit').set('top','140px').end(),
-                move('#pic-h>.sec4-list').set('opacity','0').end(),
-                move('#pic-c>.sec4-list').set('opacity','0').end(),
-                move('#pic-j>.sec4-list').set('opacity','0').end(),
-                move('#pic-aj>.sec4-list').set('opacity','0').end();
+                setTimeout(()=>{
+                    move('#pic-h>.sec4-list').set('opacity','0').end(),
+                    move('#pic-c>.sec4-list').set('opacity','0').end(),
+                    move('#pic-j>.sec4-list').set('opacity','0').end(),
+                    move('#pic-aj>.sec4-list').set('opacity','0').end();
+                },800)
                 break;
             case 5:
                 break;
