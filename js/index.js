@@ -1,3 +1,4 @@
+/*! jQuery v1.12.4 | (c) jQuery Foundation | jquery.org/license */
 $("document").ready(function(){
     $('#fullpage').fullpage({
         fixedElements:'#head',
@@ -179,6 +180,19 @@ $("document").ready(function(){
         $("#head-c").text("前端工程师").css("color","#333")
     
     });
+   var sec3Wrapheight=$(".sec3Wrap").height()
+   var sec4Wrapheight=$(".sec3Box").height()
+
+   let tops=0
+   setInterval(()=>{
+       if(tops+sec3Wrapheight<sec4Wrapheight){
+          $(".sec3Wrap").scrollTop(tops)
+          tops+=10
+       }else{
+        tops=0
+       }
+   },1000)
+    
 });
 
 

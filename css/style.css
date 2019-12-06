@@ -10,7 +10,7 @@ a{text-decoration: none;}
 .section1{
     background: url(../images/section1.jpg);
     }
-
+ 
 .section1 h1{
     text-align: center;
     position: relative;
@@ -44,11 +44,11 @@ a{text-decoration: none;}
 .section3{
         background: url(../images/section1.jpg) no-repeat;
     }
-/* .sec3Wrap{
+.sec3Wrap{
     overflow: auto !important;
 }
 .sec3Wrap::-webkit-scrollbar{
-    width: 4px;
+    width: 0px;
 }
 .sec3Wrap::-webkit-scrollbar-thumb {
     border-radius: 10px;
@@ -59,7 +59,7 @@ a{text-decoration: none;}
     -webkit-box-shadow:inset 0 0 5px rgba(0,0,0,0.2);
     border-radius: 0px;
     background: rgba(0,0,0,0.1);
-    } */
+    }
 .section4{
         background: url(../images/section2.jpg) no-repeat;
     }
