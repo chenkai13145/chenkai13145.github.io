@@ -50,6 +50,12 @@ a{text-decoration: none;}
 .sec3Wrap::-webkit-scrollbar{
     width: 0px;
 }
+.sec3Wrap::-moz-scrollbar{
+    width: 0px;
+}
+.sec3Wrap::-ms-scrollbar{
+    width: 0px;
+}
 .sec3Wrap::-webkit-scrollbar-thumb {
     border-radius: 10px;
     -webkit-box-shadow:inset 0 0 5px rgba(0,0,0,0.2);
