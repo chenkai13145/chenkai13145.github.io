@@ -153,7 +153,7 @@
       /**
        * lastIndexOf helper.
        */
-    
+      
       function lastIndexOf(arr, obj) {
         var i = arr.length;
         while (i--) {

@@ -8,7 +8,7 @@ body{
 a{text-decoration: none;}
 
 .section1{
-    background: url(../images/section1.jpg);
+    /* background: url(../images/section1.jpg); */
     }
  
 .section1 h1{
@@ -28,7 +28,7 @@ a{text-decoration: none;}
     }
 
 .section2{
-    background: url(../images/section2.jpg) ;
+    /* background: url(../images/section2.jpg) ; */
     }
 
 .section2 p{
@@ -42,7 +42,7 @@ a{text-decoration: none;}
     }
 
 .section3{
-        background: url(../images/section1.jpg) no-repeat;
+        /* background: url(../images/section1.jpg) no-repeat; */
     }
 .sec3Wrap{
     overflow: auto !important;
@@ -67,8 +67,9 @@ a{text-decoration: none;}
     background: rgba(0,0,0,0.1);
     }
 .section4{
-        background: url(../images/section2.jpg) no-repeat;
+        /* background: url(../images/section2.jpg) no-repeat; */
     }
+    /* /images/section1.jpg */
 
 #head{
     position:fixed;
@@ -308,7 +309,7 @@ a{text-decoration: none;}
 }
 
 .section5{
-    background:url(../images/section4.jpg) no-repeat;
+    /* background:url(../images/section4.jpg) no-repeat; */
 }
 .section5 h1{
     text-align: center;
@@ -341,7 +342,7 @@ a{text-decoration: none;}
     -webkit-transition:1s;
 }
 .section6{
-    background:url(../images/section8.jpg) no-repeat;
+    /* background:url(../images/section8.jpg) no-repeat; */
     position: relative;
 }
 .sec6-p{

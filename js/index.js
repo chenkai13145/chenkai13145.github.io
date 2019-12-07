@@ -143,7 +143,6 @@ $("document").ready(function(){
                 // move('.sec3-li4').set('margin-left','-20%').end();
                 // move('.sec3-li5').set('margin-left','-20%').end();
                 // move(".sec3Wrap") .set("margin-right","-30%").end();
-               
                 
                 break;
             case 4:
