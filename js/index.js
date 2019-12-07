@@ -143,6 +143,7 @@ $("document").ready(function(){
                 // move('.sec3-li4').set('margin-left','-20%').end();
                 // move('.sec3-li5').set('margin-left','-20%').end();
                 // move(".sec3Wrap") .set("margin-right","-30%").end();
+               
                 
                 break;
             case 4:
@@ -155,11 +156,12 @@ $("document").ready(function(){
                 move('.c-tit').set('top','120px').end(),
                 move('.j-tit').set('top','140px').end(),
                 move('.aj-tit').set('top','140px').end(),
-           
+                setTimeout(()=>{
                     move('#pic-h>.sec4-list').set('opacity','0').end(),
                     move('#pic-c>.sec4-list').set('opacity','0').end(),
                     move('#pic-j>.sec4-list').set('opacity','0').end(),
                     move('#pic-aj>.sec4-list').set('opacity','0').end();
+                },800)
                 break;
             case 5:
                 break;
