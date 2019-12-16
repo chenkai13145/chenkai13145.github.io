@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.a89c29eb3177af987370e630474a089d.js"
+  "precache-manifest.576affd3f1e28c056a5a21af1b88e035.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vme"});
