@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/高风险@2x.png"
   },
   {
-    "revision": "ec4f5ac4ac3facd562309cd04bc57e03",
+    "revision": "852d1718031aed4fecec4044c84b2c42",
     "url": "index.html"
   },
   {
@@ -128,103 +128,131 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "338d6c86cad504972527",
-    "url": "mobile_static/css/app.cf111b1a.css"
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "robots.txt"
   },
   {
-    "revision": "9ee41b6675395a4c093e",
-    "url": "mobile_static/css/chunk-40e245a0.8c1dd7e9.css"
+    "revision": "1425f34016d49c3b7012",
+    "url": "static/css/app.2488781b.css"
   },
   {
-    "revision": "1afbc6244d4c6f6821d7",
-    "url": "mobile_static/css/chunk-5729bc18.63c193d5.css"
+    "revision": "e23e9f705355576c2c8f",
+    "url": "static/css/chunk-0b3c61d3.d7a53e4b.css"
   },
   {
-    "revision": "74b752405b67b864c6df",
-    "url": "mobile_static/css/chunk-75380136.74403492.css"
+    "revision": "9e20a9044fe8633a3af2",
+    "url": "static/css/chunk-430c3006.8eced008.css"
   },
   {
-    "revision": "43f070fbc7729f3cac07",
-    "url": "mobile_static/css/chunk-b29b00b2.2984be45.css"
+    "revision": "8e01099e3590e6569553",
+    "url": "static/css/chunk-6eb4ba6d.6085fe90.css"
+  },
+  {
+    "revision": "6753042e93c7939201c0",
+    "url": "static/css/chunk-74a5a66e.01729a5a.css"
+  },
+  {
+    "revision": "d386c1945702c72f2050",
+    "url": "static/css/chunk-929cf5ca.ecbf4d75.css"
+  },
+  {
+    "revision": "4ad65fe2c82b64e1ade43626933b2ba5",
+    "url": "static/fonts/iconfont.4ad65fe2.woff"
+  },
+  {
+    "revision": "8d22755937d4e9d9b57b6292f153ba64",
+    "url": "static/fonts/iconfont.8d227559.ttf"
+  },
+  {
+    "revision": "94cf3bcd1da6de55edee215470f1ece6",
+    "url": "static/fonts/iconfont.94cf3bcd.eot"
+  },
+  {
+    "revision": "cd49fac441eec1daebbd6bd487b9829f",
+    "url": "static/img/eventPhoto.cd49fac4.jpg"
   },
   {
     "revision": "fe9708e5a3b144809183976e593f1e33",
-    "url": "mobile_static/img/ic_chart@2x.fe9708e5.png"
+    "url": "static/img/ic_chart@2x.fe9708e5.png"
   },
   {
     "revision": "f5d0b3f6928f0f28816b8a09b7adfe2e",
-    "url": "mobile_static/img/ic_route_ship@2x.f5d0b3f6.png"
+    "url": "static/img/ic_route_ship@2x.f5d0b3f6.png"
+  },
+  {
+    "revision": "1242fceaae557cfbdf486074b5b0d42b",
+    "url": "static/img/iconfont.1242fcea.svg"
   },
   {
     "revision": "9ad0b24829f854e865576a93963a6ff1",
-    "url": "mobile_static/img/img_logo@2x.9ad0b248.png"
+    "url": "static/img/img_logo@2x.9ad0b248.png"
   },
   {
     "revision": "0ac4300ebf819616a73e926c0aaf9f4b",
-    "url": "mobile_static/img/中风险@2x.0ac4300e.png"
+    "url": "static/img/中风险@2x.0ac4300e.png"
   },
   {
     "revision": "0e3baed6e37760871566011c4c8818f6",
-    "url": "mobile_static/img/丰田@2x.0e3baed6.png"
+    "url": "static/img/丰田@2x.0e3baed6.png"
   },
   {
     "revision": "9d193ceee3399ea32e96636858463d8b",
-    "url": "mobile_static/img/低风险@2x.9d193cee.png"
+    "url": "static/img/低风险@2x.9d193cee.png"
   },
   {
     "revision": "aa2e955088b5d63100506fb4de0f9ff5",
-    "url": "mobile_static/img/安全事件@2x.aa2e9550.png"
+    "url": "static/img/安全事件@2x.aa2e9550.png"
   },
   {
     "revision": "1d0ae9e5925dcb90f44912ca57ef5d99",
-    "url": "mobile_static/img/广汽@2x.1d0ae9e5.png"
+    "url": "static/img/广汽@2x.1d0ae9e5.png"
   },
   {
     "revision": "bdb2a3206022bbfb98aad6b3ecae4039",
-    "url": "mobile_static/img/广汽新能源@2x.bdb2a320.png"
+    "url": "static/img/广汽新能源@2x.bdb2a320.png"
   },
   {
     "revision": "2443ca50b9dbaf009be9ae892f9305b0",
-    "url": "mobile_static/img/本田@2x.2443ca50.png"
+    "url": "static/img/本田@2x.2443ca50.png"
   },
   {
     "revision": "b6a1d8fde41ecadeef1a58aec0d2bd3b",
-    "url": "mobile_static/img/讴歌@2x.b6a1d8fd.png"
+    "url": "static/img/讴歌@2x.b6a1d8fd.png"
   },
   {
     "revision": "ef86d32ad0dd6d66dfd215d6b6310fa8",
-    "url": "mobile_static/img/雷克萨斯@2x.ef86d32a.png"
+    "url": "static/img/雷克萨斯@2x.ef86d32a.png"
   },
   {
     "revision": "93b1030af4d32d193742edf6975905c6",
-    "url": "mobile_static/img/高风险@2x.93b1030a.png"
+    "url": "static/img/高风险@2x.93b1030a.png"
   },
   {
-    "revision": "338d6c86cad504972527",
-    "url": "mobile_static/js/app.e749b538.js"
+    "revision": "1425f34016d49c3b7012",
+    "url": "static/js/app.21bee1bf.js"
   },
   {
-    "revision": "9ee41b6675395a4c093e",
-    "url": "mobile_static/js/chunk-40e245a0.739d5811.js"
+    "revision": "e23e9f705355576c2c8f",
+    "url": "static/js/chunk-0b3c61d3.7388f6ac.js"
   },
   {
-    "revision": "1afbc6244d4c6f6821d7",
-    "url": "mobile_static/js/chunk-5729bc18.7a0ad5be.js"
+    "revision": "9e20a9044fe8633a3af2",
+    "url": "static/js/chunk-430c3006.ffaae3db.js"
   },
   {
-    "revision": "74b752405b67b864c6df",
-    "url": "mobile_static/js/chunk-75380136.871f2c10.js"
+    "revision": "8e01099e3590e6569553",
+    "url": "static/js/chunk-6eb4ba6d.e2edb6b8.js"
   },
   {
-    "revision": "43f070fbc7729f3cac07",
-    "url": "mobile_static/js/chunk-b29b00b2.12df6c44.js"
+    "revision": "6753042e93c7939201c0",
+    "url": "static/js/chunk-74a5a66e.a4cae48d.js"
   },
   {
-    "revision": "4b557499aeda3b18edd2",
-    "url": "mobile_static/js/chunk-vendors.bd15c2d3.js"
+    "revision": "d386c1945702c72f2050",
+    "url": "static/js/chunk-929cf5ca.3dc3be06.js"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "robots.txt"
+    "revision": "001095cf96cd678daa35",
+    "url": "static/js/chunk-vendors.767a509c.js"
   }
 ]);
