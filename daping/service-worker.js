@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.0fb4267fe70d44cd3f553778571afb2b.js"
+  "precache-manifest.0c453a13b55095299ee5b5919a23f463.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "daping"});
