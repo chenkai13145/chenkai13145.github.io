@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/高风险@2x.png"
   },
   {
-    "revision": "69b2b6cd1d6d479af3f0a0bee7eeec9d",
+    "revision": "b9366f3a3ec05d4cdf321f342089d9ca",
     "url": "index.html"
   },
   {
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "robots.txt"
   },
   {
-    "revision": "2b843ecb9b16a60d8591",
+    "revision": "dbd65bfdbb8f237d8b16",
     "url": "static/css/app.44745311.css"
   },
   {
@@ -228,8 +228,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/img/高风险@2x.93b1030a.png"
   },
   {
-    "revision": "2b843ecb9b16a60d8591",
-    "url": "static/js/app.61b2d760.js"
+    "revision": "dbd65bfdbb8f237d8b16",
+    "url": "static/js/app.583ad13d.js"
   },
   {
     "revision": "0c180302035d4ee2b934",
