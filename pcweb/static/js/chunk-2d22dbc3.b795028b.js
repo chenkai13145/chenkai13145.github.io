@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22dbc3"],{f982:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"role"},[e._v(" 管理员角色 ")])},l=[],s=t("e90a"),a={},u=Object(s["a"])(a,c,l,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d22dbc3.b795028b.js.map

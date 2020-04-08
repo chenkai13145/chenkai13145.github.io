@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b23a5"],{"22e4":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"intermediary"},[e._v(" 中介门店 ")])},s=[],c=t("e90a"),i={},l=Object(c["a"])(i,a,s,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0b23a5.50339c4c.js.map

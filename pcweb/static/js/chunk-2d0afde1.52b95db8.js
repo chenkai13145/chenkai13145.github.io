@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0afde1"],{"0fc8":function(n,a,e){"use strict";e.r(a);var t=function(){var n=this,a=n.$createElement,e=n._self._c||a;return e("div",{staticClass:"panorama"},[n._v(" 全景图 ")])},c=[],s=e("e90a"),l={},u=Object(s["a"])(l,t,c,!1,null,null,null);a["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0afde1.52b95db8.js.map

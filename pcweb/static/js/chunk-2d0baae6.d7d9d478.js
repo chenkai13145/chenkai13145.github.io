@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0baae6"],{"37f2":function(t,e,a){"use strict";a.r(e);var n=function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",{staticClass:"terracotta"},[t._v(" 项目总对俑表 ")])},c=[],s=a("e90a"),l={},r=Object(s["a"])(l,n,c,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0baae6.d7d9d478.js.map

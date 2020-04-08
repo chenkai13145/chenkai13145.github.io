@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0daea8"],{"6e47":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"orderimport"},[e._v("成交单导入")])},r=[],s=t("e90a"),c={},l=Object(s["a"])(c,a,r,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0daea8.b660c818.js.map

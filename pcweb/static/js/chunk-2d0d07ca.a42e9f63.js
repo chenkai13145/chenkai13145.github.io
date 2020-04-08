@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d07ca"],{"67d7":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"newspaper"},[e._v("报备统计（楼盘）")])},s=[],c=t("e90a"),l={},u=Object(c["a"])(l,a,s,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0d07ca.a42e9f63.js.map
